@@ -1,41 +1,59 @@
-# 👋 Hola, mi nombre es Izan Conchilla Monzonis
+<h1 align="center">👋 Hola, soy Izan Conchilla Monzonis</h1>
+<h3 align="center">💻 Estudiante de Sistemas Microinformáticos y Redes</h3>
 
-<!--
-**ryuu430/ryuu430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Apasionado por la tecnología, la programación y el aprendizaje constante.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
 
-## Sobre mi
+🎓 Estudiante de segundo año en Sistemas Microinformáticos y Redes  
+🧠 Interesado en programación, redes y sistemas  
+📚 Siempre aprendiendo algo nuevo  
 
-- Estudiante de segundo año de Sistemas Microinformáticos y Redes
-- Me gusta aprender sobre programación
+---
 
+## 🛠️ Habilidades Técnicas
 
+### 💻 Sistemas Operativos
+- Windows 10 / 11  
+- Linux  
 
-## Habilidades tecnicas
-- Sistemas operativos: Linux y Windows 10/11
-- Redes: Configuración de IPs en switches y routers
-- Hardware: Montaje y desmontaje de equipos 
-- Máquinas virtuales: VirtualBox
-- Ofimática: Microsoft Office y LibreOffice
-- Programación con Python
+### 🌐 Redes
+- Configuración básica de IP en switches y routers  
+- Conceptos fundamentales de redes  
 
-## Objetivos 
-- Mejorar mis habilidades en programación
-- Subir más proyectos a GitHub
-- Aprender Javascript o C++
+### 🔧 Hardware
+- Montaje y mantenimiento de equipos  
+
+### 🖥️ Virtualización
+- VirtualBox  
+
+### 📊 Ofimática
+- Microsoft Office  
+- LibreOffice  
+
+### 🐍 Programación
+- Python  
+- HTML  
+- CSS  
+
+---
+
+## 🎯 Objetivos Profesionales
+
+- Mejorar mis habilidades en programación  
+- Desarrollar y publicar más proyectos en GitHub  
+- Aprender JavaScript y C++  
+- Seguir creciendo en el área de sistemas y redes  
+
+---
 
 ## 🧰 Tecnologías
+
+<p align="center">
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -46,7 +64,17 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+</p>
 
-## Contacto
-**Correo electronico:**
-[[ryuutempest149@gmail.com](mailto:ryuutempest149@gmail.com)]
+---
+
+## 📫 Contacto
+
+📧 **Email:**  
+[ryuutempest149@gmail.com](mailto:ryuutempest149@gmail.com)
+
+---
+
+<p align="center">
+✨ Gracias por visitar mi perfil ✨
+</p>
