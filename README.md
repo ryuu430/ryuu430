@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media1.tenor.com/m/NbzuesZ98n4AAAAC/banner-discord.gif" width="800" height="300">
+</p>
+
 <h1 align="center">👋 Hola, soy Izan Conchilla Monzonis</h1>
 <h3 align="center">💻 Estudiante de Sistemas Microinformáticos y Redes</h3>
 
@@ -7,10 +11,10 @@ Apasionado por la tecnología, la programación y el aprendizaje constante.
 
 ---
 
-## 🚀 Sobre mí
+## 📋 Sobre mí
 
 🎓 Estudiante de segundo año en Sistemas Microinformáticos y Redes  
-🧠 Interesado en programación, redes y sistemas  
+🎮 Interesado en programación, redes y sistemas  
 📚 Siempre aprendiendo algo nuevo  
 
 ---
