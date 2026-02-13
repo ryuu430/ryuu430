@@ -54,7 +54,9 @@ Apasionado por la tecnología, la programación y el aprendizaje constante.
 - Seguir creciendo en el área de sistemas y redes  
 
 ---
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ryuu430&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="visitas" />
+</p>
 ## 🧰 Tecnologías
 
 <p align="center">
